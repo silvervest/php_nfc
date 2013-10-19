@@ -16,5 +16,4 @@ while (1) {
     } else {
         print "No card found this poll\n";
     }
-    break;
 }
